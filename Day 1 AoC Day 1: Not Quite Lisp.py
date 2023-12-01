@@ -1,3 +1,4 @@
+#Day 1: Not Quite Lisp
 def find_floor(directions):
     floor = 0
 
@@ -17,7 +18,7 @@ final_floor = find_floor(directions)
 print(f"Santa winds up on floor {final_floor}.")
 
 
-
+#Part 2
 def find_first_basement_position(instructions):
     floor = 0
     position = 0
